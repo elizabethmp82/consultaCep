@@ -1,0 +1,17 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+  body,p,h1,h2,input{
+  margin: 0;
+  font-family: Roboto Mono; 
+}
+
+body{
+  
+ 
+  background-color: #5c3fd0;
+  }
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
